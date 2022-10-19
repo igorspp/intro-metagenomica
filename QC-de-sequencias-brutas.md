@@ -40,7 +40,7 @@ ls -l ../seq_brutas
 ```
 
 Se tudo estiver correto – e ninguém deletou nada por acidente – o comando acima deverá listar 8 arquivos.  
-Para cada uma das 4 amostras, um arquivo com as sequências *forward* `*_1.fastq` e outro com as sequências *reverse* `*_2.fastq`.  
+Para cada uma das 4 amostras, temos um arquivo com as sequências *forward* (`*_1.fastq`) e outro com as sequências *reverse* (`*_2.fastq`).  
 As amostras que utilizaremos são:  
 
 * 2 amostras de estação de tratamento de esgoto (ETE): ERR1713356 e ERR2683233  
@@ -110,7 +110,7 @@ Agora liste o conteúdo da pasta `fastqc`:
 ls fastqc
 ```
 
-Se tudo deu certo, você deverá ver 16 arquivos: um arquivo `*.html` e um `.zip` para cada arquivo que foi analisado pelo programa.  
+Se tudo deu certo, você deverá ver 16 arquivos: um arquivo `.html` e um `.zip` para cada arquivo que foi analisado pelo programa.  
 Para juntarmos os relatórios de cada amostra em um arquivo comum mais fácil de navegar, iremos utilizar o programa `MultiQC`:  
 
 ```bash

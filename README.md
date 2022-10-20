@@ -16,6 +16,14 @@
 |-------|--------------------------------------------------|---------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior         |                                                   |
 |Manhã  |Conexão ao supercomputador Puhti                  |                                                   |
-|Manhã  |Palestra: Controle de qualidade (QC) de sequências|[SLIDES](QC-de-sequencias.pdf)                     |
-|Manhã  |Prática: QC de sequências brutas                  |[EXERCÍCIO](QC-de-sequencias-brutas.md) + Discussão|
+|Manhã  |Palestra: Controle de qualidade de sequências     |[SLIDES](CQ-de-sequencias.pdf)                     |
+|Manhã  |Prática: CQ de sequências brutas                  |[EXERCÍCIO](CQ-de-sequencias-brutas.md) + Discussão|
 |Tarde  |Prática: Limpeza de sequências                    |[EXERCÍCIO](limpeza-de-sequencias.md)              |
+
+## Sexta-feira 04.11
+
+|Período|Atividade                                         |                                                   |
+|-------|--------------------------------------------------|---------------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior         |                                                   |
+|Manhã  |Palestra: Montagem de metagenomas                 |                                                   |
+|Manhã  |Prática: Montagem de metagenomas                  |                                                   |

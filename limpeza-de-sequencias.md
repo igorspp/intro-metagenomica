@@ -43,7 +43,7 @@ done
 * Nas linha #3 e #4, definimos o comando/programa que será rodado (`head -n 10`), seguido pelo nome da pasta onde os arquivos estão (`fastqc/`), a variável que definimos na linha #1 (`${sample}`), e o restante do nome dos arquivos (`_1_fastqc.html` ou `_2_fastqc.html` ).  
 * E finalmente, a linha #4 sinaliza o fim do loop.  
 
-Ao executarmos o loop acima, em cada uma das 4 interações, a variável `${sample}` será substituída pelo nome de uma das 4 amostras que definimos na lista da primeira linha; em efeito, gerando automaticamente o nome dos arquivos que serão analisados.  
+Ao executarmos o loop acima, em cada uma das 4 iterações, a variável `${sample}` será substituída pelo nome de uma das 4 amostras que definimos na lista da primeira linha; em efeito, gerando automaticamente o nome dos arquivos que serão analisados.  
 
 Uma maneira mais elegante e ainda mais automática de definir o mesmo loop seria:  
 
@@ -87,7 +87,7 @@ cutadapt ../seq_brutas/${sample}_1.fastq \
 Olhando o manual do `Cutadapt` [online](https://cutadapt.readthedocs.io/en/stable/index.html) ou rodando `cutadapt -h`, tente responder:  
 
 * O que significam as bandeiras `-o`, `-p`, `-a`, `-A`, `-q`, `-m` e `-j`?  
-* Por que os argumentos para `-o` e `-p` agora terminam em `.fastq.gz`?
+* Por que os argumentos para `-o` e `-p` terminam em `.fastq.gz`?
 * Qual o propósito do redirecionamento (`> seq_limpas/${sample}.log.txt`)?  
 
 Finalmente, podemos então rodar o `Cutadapt`.  
@@ -132,7 +132,7 @@ Note que as únicas coisas que diferem entre os dois loops são os argumentos pa
 
 **EXERCÍCIO OPCIONAL:**  
 Você conseguiria desenvolver um jeito de rodar `Cutadapt` para as 4 amostras utilizando um só `for loop`?  
-Ou seja, um `for loop` onde os argumentos passados para `-a` e `-A` dependem de qual é a amostra que está sendo analisada em cada interação?  
+Ou seja, um `for loop` onde os argumentos passados para `-a` e `-A` dependem de qual é a amostra que está sendo analisada em cada iteração?  
 Talvez algo involvendo declarações condicionais `if/else` seria uma possibilidade? 
 
 ---

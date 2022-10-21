@@ -46,7 +46,7 @@ Aqui utilizaremos os programas [FastQC](https://www.bioinformatics.babraham.ac.u
 >
 > Quando nos conectamos a um servidor como o Puhti, nós somos direcionados a um **nó de login**.  
 > Nós de login são limitados a tarefas simples como mover arquivos, editar códigos, etc.  
-> Para rodarmos programas e tarefas que demandam mais recursos como maior memória RAM, número de núcleos (*cores*), e tempo, precisamos antes nos conectarmos a um **nó de computação**.  
+> Para rodarmos programas e tarefas que demandam mais recursos como maior memória RAM, número de núcleos (*cores*), e tempo, precisamos antes nos conectar a um **nó de computação**.  
 > Em servidores que usam o sistema `SLURM`, podemos nos conectar a um nó de computação usando o programa `srun`.  
 
 Vamos então nos conectar a um nó de computação, solicitando 4 núcleos e 2 GB de RAM por 30 minutos:  
@@ -137,7 +137,7 @@ fastqc --help
 > Para sair, digitamos `q`.  
 
 > **Dica #2:**  
-> Utilizando tubulações (*pipes*), representadas por uma barra vertical (`|`), podemos canalizar o resultado de um comando como a entrada de outro.  
+> Utilizando tubulações (*pipes*), representadas por uma barra vertical (`|`), podemos canalizar o resultado (*output*) de um comando para ser a entrada (*input*) de outro.  
 > Por exemplo, para acessarmos a ajuda do programa `FastQC` de uma maneira que seja mais fácil de navegar, podemos utilizar:  
 > 
 > ```bash

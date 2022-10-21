@@ -1,4 +1,4 @@
-# Controle de qualidade de sequências brutas
+# Relatórios de qualidade das sequências brutas
 
 ## Se conectando ao Puhti
 
@@ -37,10 +37,10 @@ ls -l ../seq_brutas
 Se tudo estiver correto – e ninguém deletou nada por acidente – o comando acima deverá listar 8 arquivos.  
 Para cada uma das 4 amostras, temos um arquivo com as sequências *forward* (`*_1.fastq`) e outro com as sequências *reverse* (`*_2.fastq`).  
 
-## Realizando o controle de qualidade de sequências brutas
+## Obtendo relatórios de qualidade das sequências brutas
 O processo de sequenciamento de DNA está sujeito a diversos tipos de problemas que podem introduzir erros e artefatos nas sequências.  
 Por isso, análises de bioinformática geralmente começam com um controle de qualidade de sequências brutas.  
-Aqui utilizaremos os programas [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc) e [MultiQC](https://multiqc.info) para este propósito.  
+Aqui utilizaremos os programas [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc) e [MultiQC](https://multiqc.info) para obter relatórios de qualidade.  
 
 > **NOTA SOBRE NÓS DE LOGIN E NÓS DE COMPUTAÇÃO:**  
 >
@@ -174,6 +174,8 @@ exit
 > 
 > Para ter certeza que você saiu do nó de computação e está de volta no nó de login, olhe o *prompt*, que agora deve mostrar algo como `[student389@puhti-login12 student389]$`.  
 > Além disso, o comando `echo $SLURMD_NODENAME` agora deverá retornar uma linha em branco.  
+
+## Visualizando os relatórios de controle de qualidade
 
 Agora utilizando o painel *Explorer* do VS Code (`View -> Explorer`), clique com o botão direito na pasta `multiqc` e depois em `Download...` para baixá-la para o seu computador.  
 No seu computador, vá para onde salvou a pasta e abra o arquivo `multiqc_report.html` no seu navegador favorito.  

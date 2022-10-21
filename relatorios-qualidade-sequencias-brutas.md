@@ -46,18 +46,18 @@ Aqui utilizaremos os programas [FastQC](https://www.bioinformatics.babraham.ac.u
 >
 > Quando nos conectamos a um servidor como o Puhti, nós somos direcionados a um **nó de login**.  
 > Nós de login são limitados a tarefas simples como mover arquivos, editar códigos, etc.  
-> Para rodarmos programas e tarefas que demandam mais recursos como maior memória RAM, número de núcleos (*cores*), e tempo, precisamos antes nos conectar a um **nó de computação**.  
-> Em servidores que usam o sistema `SLURM`, podemos nos conectar a um nó de computação usando o programa `srun`.  
+> Para rodar programas e tarefas que demandam mais recursos como maior memória RAM, número de núcleos (*cores*), e tempo, precisamos antes nos conectar a um **nó de computação**.  
+> Em servidores que usam o sistema `SLURM`, podemos nos conectar a um nó de computação (modo interativo) usando o programa `srun`.  
 
 Vamos então nos conectar a um nó de computação, solicitando 4 núcleos e 2 GB de RAM por 30 minutos:  
 
 ```bash
-srun --pty --account=project_2006567 --partition interactive --cpus-per-task=4 --mem 2000 --time 00:30:00 bash
+srun --pty --account=project_2006567 --partition=interactive --cpus-per-task=4 --mem=2000 --time=00:30:00 bash
 ```
 
 Em poucos segundos após rodar o comando acima você estará conectado a um nó de computação.  
 O tempo de espera varia de acordo com quantos usuários estão utilizando o sistema nesse momento, mas solicitações involvendo poucos recursos geralmente levam alguns segundos.   
-Quando você estiver conectado a um nó de computação, você verá que o *prompt* mudará de algo como:  
+Quando você estiver conectado a um nó de computação, você verá que o *prompt* terá mudado de algo como:  
 > `[student389@puhti-login12 student389]$`  
 
 para algo como:  
@@ -75,7 +75,7 @@ echo $SLURMD_NODENAME
 > Nesse curso utilizaremos o programa `conda` para gerenciar as instalações dos programas.  
 > Usando `conda`, é possível ter no seu sistema diferentes ambientes contendo diferentes programas de modo que as instalações não interfiram umas com as outras.  
 > Você pode ler mais sobre `conda` [aqui](https://docs.conda.io/en/latest/).  
-> Para listar os diferentes ambientes que foram criado para esse curso você pode rodar:  
+> Para listar os diferentes ambientes que foram criados para esse curso você pode rodar:  
 > 
 > ```bash
 > conda env list 
@@ -83,13 +83,13 @@ echo $SLURMD_NODENAME
 > conda info --envs
 > ```
 
-Vamos então ativar o ambiente `conda` onde os programas que iremos utilizar (`FastQC` e `MultiQC`) estão instalados:  
+Vamos então ativar o ambiente `conda` onde os programas que utilizaremos (`FastQC` e `MultiQC`) estão instalados:  
 
 ```bash
 conda activate QC
 ```
 
-Para vermos se realmente temos acesso aos programas, e de quebra ver qual a versão dos programas instalados, podemos rodar:  
+Para ver se realmente temos acesso aos programas, e de quebra ver qual a versão dos programas instalados, podemos rodar:  
 
 ```bash
 fastqc --version
@@ -126,7 +126,7 @@ fastqc --help
 
 > **Dica #1:**  
 > 
-> Para visualizarmos textos longos no terminal sem termos que ficar subindo e descendo a tela podemos utilizar o comando `less`.  
+> Para visualizar textos longos no terminal sem ter que ficar subindo e descendo a tela podemos utilizar o comando `less`.  
 > Por examplo, digamos que queremos visualizar o arquivo `ERR1713356_1.fastq` (que contem 40000000 de linhas):  
 > 
 > ```bash
@@ -138,7 +138,7 @@ fastqc --help
 
 > **Dica #2:**  
 > Utilizando tubulações (*pipes*), representadas por uma barra vertical (`|`), podemos canalizar o resultado (*output*) de um comando para ser a entrada (*input*) de outro.  
-> Por exemplo, para acessarmos a ajuda do programa `FastQC` de uma maneira que seja mais fácil de navegar, podemos utilizar:  
+> Por exemplo, para acessar a ajuda do programa `FastQC` de uma maneira que seja mais fácil de navegar, podemos utilizar:  
 > 
 > ```bash
 > fastqc --help | less
@@ -152,7 +152,7 @@ ls -1 fastqc
 ```
 
 Se tudo deu certo, você deverá ver 16 arquivos: um arquivo `.html` e um `.zip` para cada arquivo que foi analisado pelo programa.  
-Para juntarmos os relatórios de cada amostra em um arquivo comum mais fácil de navegar, utilizaremos o programa `MultiQC`:  
+Para agregar os relatórios de cada amostra em um arquivo comum que é mais fácil de navegar, utilizaremos o programa `MultiQC`:  
 
 ```bash
 multiqc fastqc -o multiqc
@@ -185,4 +185,4 @@ Investigue o relatório e veja que tipos de problemas foram detectados nas sequ�
 > 
 > Para cada painel (por exemplo, *Sequence Quality Histograms* ou *Per Sequence Quality Scores*) você pode clicar no botão `?Help` à direita do título para entender mais o que está sendo representado pelo gráfico.  
 
-Quando todos tiverem terminado as análises, nós iremos olhar novamente o relatório juntos e discutir se algo precisa ser feito para tentar corrigir possíveis problemas com as sequências.  
+Quando todos tiverem terminado as análises, vamos olhar novamente o relatório juntos e discutir se algo precisa ser feito para corrigir possíveis problemas com as sequências.  

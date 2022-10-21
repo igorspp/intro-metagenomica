@@ -45,7 +45,7 @@ Agora vamos rodar o programa `Cutadapt` para realizar a limpeza das sequências 
 Primeiro, nos conectamos a um nó de computação usando `srun`, ativamos o ambiente `conda` onde `Cutadapt` está instalado, e criamos uma pasta onde as sequências limpas serão armazenadas:  
 
 ```bash
-srun --pty --account=project_2006567 --partition interactive --cpus-per-task=4 --mem 2000 --time 02:00:00 bash
+srun --pty --account=project_2006567 --partition=interactive --cpus-per-task=4 --mem=2000 --time=02:00:00 bash
 conda activate cutadapt
 mkdir seq_limpas
 ```

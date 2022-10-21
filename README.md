@@ -39,7 +39,7 @@
 |Manhã  |Esclarecimento de dúvidas do dia anterior|                                    |
 |Manhã  |Palestra: Montagem de metagenomas        |[SLIDES](montagem-metagenomas.pdf)  |
 |Manhã  |Prática: Montagem de metagenomas         |[EXERCÍCIO](montagem-metagenomas.md)|
-|Tarde  |Prática: Análise das montagens           |[EXERCÍCIO](analise-montagens.md    |
+|Tarde  |Prática: Análise das montagens           |[EXERCÍCIO](analise-montagens.md)   |
 
 ## Segunda-feira 07.11
 

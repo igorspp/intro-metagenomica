@@ -152,5 +152,5 @@ Agora baixe a pasta `multiqc_limpas` para o seu computador como feito anteriorme
 >
 > \- Quais problemas foram resolvidos?  
 > \- E quais não foram?  
-> \- Aparaceram novos problemas que não existiam nas sequências limpas?  
+> \- Apareceram novos problemas que não existiam nas sequências limpas?  
 > \- Podemos continuar nossas análises ou devemos repetir o processo de limpeza? De repente utilizando parâmetros diferentes ou até mesmo  um outro programa?

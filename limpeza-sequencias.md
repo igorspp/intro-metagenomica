@@ -72,6 +72,9 @@ cutadapt ../seq_brutas/${sample}_1.fastq \
 > \- O que significam as bandeiras `-o`, `-p`, `-a`, `-A`, `-q`, `-m` e `-j`?  
 > \- Por que os argumentos para `-o` e `-p` terminam em `.fastq.gz`?  
 > \- Qual o propósito do redirecionamento (`> seq_limpas/${sample}.log.txt`)?  
+> 
+> Além disso, qual o propósito da barra invertida (`\`) no comando acima?
+
 
 Agora que entendemos bem o comando, vamos rodar o `Cutadapt`.  
 Mas como nada nunca é tão simples, temos que prestar atenção a um detalhe: as amostras vêm de projetos diferentes onde foram utilizados kits diferentes de preparação de bibliotecas que por sua vez têm sequências diferentes de adaptadores.  

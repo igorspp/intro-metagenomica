@@ -47,7 +47,6 @@ Em torno de 2h30min teremos nossa montagens prontas.
 > Ou se estiver afim de um desafio, porque não abandonar o modo **interativo** e rodar os programas no modo de **lote** (*batch*)?  
 > Você pode ler mais sobre o modo de lote [aqui](https://docs.csc.fi/computing/running/creating-job-scripts-puhti/).  
 
-
 Enquanto espera, dê uma olhada no manual do `MEGAHIT` [aqui](https://www.metagenomics.wiki/tools/assembly/megahit) e [aqui](https://github.com/voutcn/megahit/wiki) e veja se há algo que você poderia ter feito diferente.  
 Por exemplo, quais são os valores padrão para `--k-min` e `--k-max` que foram utilizados?  
 No caso das nossas amostras, seria melhor ter modificado esses valores?  

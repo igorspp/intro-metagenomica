@@ -18,13 +18,13 @@
 
 ## Quarta-feira 02.11
 
-|Período|Atividade                                             |                                                   |
-|-------|------------------------------------------------------|---------------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior             |                                                   |
-|Manhã  |Conexão ao supercomputador Puhti                      |                                                   |
-|Manhã  |Palestra: Controle de qualidade de sequências         |[SLIDES](CQ-de-sequencias.pdf)                     |
+|Período|Atividade                                             |                                                                  |
+|-------|------------------------------------------------------|------------------------------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior             |                                                                  |
+|Manhã  |Conexão ao supercomputador Puhti                      |                                                                  |
+|Manhã  |Palestra: Controle de qualidade de sequências         |[SLIDES](CQ-sequencias.pdf)                                       |
 |Manhã  |Prática: Relatórios de qualidade das sequências brutas|[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md) + Discussão|
-|Tarde  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-de-sequencias.md)              |
+|Tarde  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-sequencias.md)                                |
 
 ## Quinta-feira 03.11
 
@@ -34,12 +34,12 @@
 
 ## Sexta-feira 04.11
 
-|Período|Atividade                                |                                                           |
-|-------|-----------------------------------------|-----------------------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
-|Manhã  |Palestra: Montagem de metagenomas        |[SLIDES](montagem-de-metagenomas.pdf)                      |
-|Manhã  |Prática: Montagem de metagenomas         |[EXERCÍCIO](montagem-de-metagenomas.md)                    |
-|Manhã  |Prática: CQ das montagens de metagenomas |[EXERCÍCIO](CQ-das-montagens-de-metagenomas.md) + Discussão|
+|Período|Atividade                                |                                    |
+|-------|-----------------------------------------|------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior|                                    |
+|Manhã  |Palestra: Montagem de metagenomas        |[SLIDES](montagem-metagenomas.pdf)  |
+|Manhã  |Prática: Montagem de metagenomas         |[EXERCÍCIO](montagem-metagenomas.md)|
+|Tarde  |Prática: Análise das montagens           |[EXERCÍCIO](analise-montagens.md    |
 
 ## Segunda-feira 07.11
 

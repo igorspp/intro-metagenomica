@@ -30,8 +30,8 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                             |                                                                  |
 |-------|------------------------------------------------------|------------------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior             |                                                                  |
-|Manhã  |Conexão ao supercomputador Puhti                      |                                                                  |
 |Manhã  |Palestra: Controle de qualidade de sequências         |[SLIDES](CQ-sequencias.pdf)                                       |
+|Manhã  |Conexão ao supercomputador Puhti                      |                                                                  |
 |Manhã  |Prática: Relatórios de qualidade das sequências brutas|[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md) + Discussão|
 |Tarde  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-sequencias.md)                                |
 
@@ -43,20 +43,23 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Sexta-feira 04.11
 
-|Período|Atividade                                |                                    |
-|-------|-----------------------------------------|------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior|                                    |
-|Manhã  |Palestra: Montagem de metagenomas        |[SLIDES](montagem-metagenomas.pdf)  |
-|Manhã  |Prática: Montagem de metagenomas         |[EXERCÍCIO](montagem-metagenomas.md)|
-|Tarde  |Prática: Análise das montagens           |[EXERCÍCIO](analise-montagens.md)   |
+|Período|Atividade                                            |                                              |
+|-------|-----------------------------------------------------|----------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior            |                                              |
+|Manhã  |Palestra: Montagem de metagenomas                    |[SLIDES](montagem-metagenomas.pdf)            |
+|Manhã  |Prática: Montagem de metagenomas                     |[EXERCÍCIO](montagem-metagenomas.md)          |
+|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais|[SLIDES](perfis-taxonomicos-funcionais.pdf)   |
+|Tarde  |Prática: Análise das montagens                       |[EXERCÍCIO](analise-montagens.md)             |
+|Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais |[EXERCÍCIO](perfis-taxonomicos-funcionais.pdf)|
 
 ### Segunda-feira 07.11
 
 |Período|Atividade                                |                                                           |
 |-------|-----------------------------------------|-----------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
-|Manhã  |Palestra: Binning de MAGs                |[SLIDES]()                                                 |
-|Manhã  |Prática: anvi'o (importing)              |                                                           |
+|Manhã  |Palestra: Obtenção de MAGs               |[SLIDES](obtencao-MAGs.pdf)                                |
+|Manhã  |Exposição: Obtenção de MAGs usando anvi'o|                                                           |
+|Tarde  |Prática: Obtenção de MAGs usando anvi'o  |[EXERCÍCIO](obtencao-MAGs-anvio.md)                        |
 
 ### Terça-feira 08.11
 
@@ -69,7 +72,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                |                                                           |
 |-------|-----------------------------------------|-----------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
-|Manhã  |Prática: anvi'o (binning)                |                                                           |
+|Manhã  |Prática: Análise de MAGs                 |                                                           |
 
 ### Quinta-feira 10.11
 

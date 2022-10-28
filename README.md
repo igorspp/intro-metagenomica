@@ -43,14 +43,14 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Sexta-feira 04.11
 
-|Período|Atividade                                            |                                              |
-|-------|-----------------------------------------------------|----------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior            |                                              |
-|Manhã  |Palestra: Montagem de metagenomas                    |[SLIDES](montagem-metagenomas.pdf)            |
-|Manhã  |Prática: Montagem de metagenomas                     |[EXERCÍCIO](montagem-metagenomas.md)          |
-|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais|[SLIDES](perfis-taxonomicos-funcionais.pdf)   |
-|Tarde  |Prática: Análise das montagens                       |[EXERCÍCIO](analise-montagens.md)             |
-|Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais |[EXERCÍCIO](perfis-taxonomicos-funcionais.pdf)|
+|Período|Atividade                                            |                                             |
+|-------|-----------------------------------------------------|---------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior            |                                             |
+|Manhã  |Palestra: Montagem de metagenomas                    |[SLIDES](montagem-metagenomas.pdf)           |
+|Manhã  |Prática: Montagem de metagenomas                     |[EXERCÍCIO](montagem-metagenomas.md)         |
+|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais|[SLIDES](perfis-taxonomicos-funcionais.pdf)  |
+|Tarde  |Prática: Análise das montagens                       |[EXERCÍCIO](analise-montagens.md)            |
+|Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais |[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|
 
 ### Segunda-feira 07.11
 

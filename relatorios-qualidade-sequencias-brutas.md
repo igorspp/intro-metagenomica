@@ -3,7 +3,7 @@
 ## Se conectando ao Puhti
 
 Todas as análises de bioinformática serão realizadas no servidor [Puhti](https://puhti.csc.fi).  
-As instruções de como se conectar ao Puhti usando o VS Code estão descritas nos slides [aqui](apanhado-geral-e-info-praticas.pdf).  
+As instruções de como se conectar ao Puhti usando o VS Code estão descritas nos slides [aqui](apanhado-geral-info-praticas.pdf).  
 
 > **Lembrete:**  
 > 
@@ -13,7 +13,7 @@ As instruções de como se conectar ao Puhti usando o VS Code estão descritas n
 
 > **Sobre as amostras:**  
 > 
-> Como explicado [aqui](apanhado-geral-e-info-praticas.pdf), as amostras que utilizaremos são:  
+> Como explicado [aqui](apanhado-geral-info-praticas.pdf), as amostras que utilizaremos são:  
 > \- 2 amostras de estação de tratamento de esgoto (ETE): ERR1713356 e ERR2683233  
 > \- 2 amostras de solo de tundra: ERR4998600 e ERR4998601  
 > 
@@ -27,7 +27,7 @@ Vamos listar o conteúdo da pasta:
 ls -l ../seq_brutas
 ```
 
-> **Perguntas:**  
+> **Pergunta #1:**  
 > 
 > \- O que é o comando `ls`?  
 > \- Qual o propósito da bandeira `-l`?  
@@ -110,7 +110,7 @@ fastqc ../seq_brutas/*.fastq -o fastqc -t 4
 
 Se tudo der certo, após alguns poucos minutos a análise estará concluída.  
 
-> **Perguntas:**  
+> **Pergunta #2:**  
 > 
 > \- O que significa `../seq_brutas/*.fastq`? O que o asterisco (`*`) está fazendo ali?  
 > \- Qual o propósito da bandeira `-o` e o argumento `fastqc`?  
@@ -179,7 +179,11 @@ exit
 
 Agora utilizando o painel *Explorer* do VS Code (`View -> Explorer`), clique com o botão direito na pasta `multiqc` e depois em `Download...` para baixá-la para o seu computador.  
 No seu computador, vá para onde salvou a pasta e abra o arquivo `multiqc_report.html` no seu navegador favorito.  
-Investigue o relatório e veja que tipos de problemas foram detectados nas sequências.  
+
+> **Pergunta #3**
+> 
+> \- Que tipos de problemas as sequências brutas apresentam? Quais as causas?
+
 
 > **Dica:** 
 > 

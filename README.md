@@ -15,7 +15,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |-------|-----------------------------------------------|------------------------------------------|
 |Manhã  |Palestra: Apanhado geral e informações práticas|[SLIDES](apanhado-geral-info-praticas.pdf)|
 |Manhã  |Palestra: Introdução ecologia microbiana       |[SLIDES]                                  |
-|Manhã  |Palestra: Introdução metagenômica              |[SLIDES]                                  |
+|Manhã  |Palestra: Introdução metagenômica              |[SLIDES](hultman_metagenomics_brazil.pdf) |
 |Manhã  |Palestra: Introdução linha de comando          |[SLIDES](intro-linha-comando.pdf)         |
 |Tarde  |Prática: Linha de comando                      |[EXERCÍCIO](pratica-linha-comando.md)     |
 

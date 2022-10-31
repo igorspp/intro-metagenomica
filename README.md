@@ -14,7 +14,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                      |                                          |
 |-------|-----------------------------------------------|------------------------------------------|
 |Manhã  |Palestra: Apanhado geral e informações práticas|[SLIDES](apanhado-geral-info-praticas.pdf)|
-|Manhã  |Palestra: Introdução ecologia microbiana       |[SLIDES]                                  |
+|Manhã  |Palestra: Introdução ecologia microbiana       |[SLIDES](Curso-Metagenomica-Macedo-AJ.pdf)|
 |Manhã  |Palestra: Introdução metagenômica              |[SLIDES](hultman_metagenomics_brazil.pdf) |
 |Manhã  |Palestra: Introdução linha de comando          |[SLIDES](intro-linha-comando.pdf)         |
 |Manhã  |Palestra: Controle de qualidade de sequências  |[SLIDES](CQ-sequencias.pdf)               |

@@ -1,11 +1,11 @@
 # Prática de linha de comando
 
 A maioria das nossas atividades será feita através da linha de comando do sistema Unix.  
-Portanto, é recomendável ter pelo menos uma noção básica de como se orientar usando a linha de comando.  
+Portanto, é recomendável ter pelo menos uma noção básica de como se orientar nesse sistema.  
 Dedicaremos agora cerca de uma hora para (re-)aprender algumas noções básicas.  
 
 **Usuários de Windows:** abra [este emulador de terminal](https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) em uma nova janela.  
-**Usuários de MacOS/Linux:** inicie o aplicativo Terminal.  
+**Usuários de MacOS/Linux:** inicie o aplicativo `Terminal`.  
 
 > **NOTAS:** 
 > 
@@ -15,10 +15,10 @@ Dedicaremos agora cerca de uma hora para (re-)aprender algumas noções básicas
 > mkdir exercicio_unix
 > cd exercicio_unix
 > ```
-> ...representa comandos que você deve digitar.  
+> ...representam comandos que você deve digitar.  
 > Cada linha representa um comando.  
 > Comandos devem ser digitados em uma única linha, um de cada vez.  
-> Após cada comando, tecle Enter para executar.  
+> Após cada comando, tecle `Enter` para executar.  
 > 
 > Linhas que começam com o símbolo do jogo da velha (*hashtag*)...
 > 
@@ -27,10 +27,10 @@ Dedicaremos agora cerca de uma hora para (re-)aprender algumas noções básicas
 > ```
 > 
 > ...representam comentários embutidos no código para dar instruções ao usuário, fazer observações sobre o código, etc.  
-> Todo o texto em uma linha que comece com `#` é ignorada e não é executada.  
+> Todo o texto em uma linha que comece com `#` é ignorada e não é executada pela *shell*.  
 > 
-> Ao longo desse curso nós usaremos comandos diferentes que utilizam sintaxes diferentes.  
-> Comandos diferentes esperam diferentes tipos de bandeiras e argumentos.  
+> Ao longo desse curso nós usaremos diversos comandos que muitas vezes utilizam sintaxes diferentes.  
+> Comandos diferentes precisam de tipos diferentes de bandeiras e argumentos.  
 > Algumas vezes a ordem importa, outras não.  
 > Alguns parâmetros possuem um valor padrão e não precisam ser declarados pelo usuário, a menos que queira modificar o valor padrão.  
 > Se você não tiver certeza como rodar um comando, a melhor maneira de aprender mais é dando uma olhada no manual com o comando `man`.  
@@ -240,9 +240,9 @@ O que aconteceu com `minha_pasta`?
 ## Para aprender mais
 
 O exercício acima abordou uma ínfima parte do que precisamos saber para navegar a linha de comando do Unix.  
-Dependendo do seu nível de conhecimento, seria interessante praticar mais para poder fazer esse curso de uma maneira mas fluida.  
+Dependendo do seu nível de conhecimento, seria interessante praticar mais para poder seguir esse curso de uma maneira mas fluida.  
 
-Abaixo listo alguns recursos que achei úteis para melhorar ou refrescar o conhecimento da linha de comando:
+Abaixo listo alguns recursos que acho úteis para melhorar ou refrescar o conhecimento da linha de comando:
 
 * [cmdchallenge.com](https://cmdchallenge.com)
 * [astrobiomike.github.io/unix](https://astrobiomike.github.io/unix)

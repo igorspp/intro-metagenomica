@@ -17,6 +17,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Manhã  |Palestra: Introdução ecologia microbiana       |[SLIDES]                                  |
 |Manhã  |Palestra: Introdução metagenômica              |[SLIDES](hultman_metagenomics_brazil.pdf) |
 |Manhã  |Palestra: Introdução linha de comando          |[SLIDES](intro-linha-comando.pdf)         |
+|Manhã  |Palestra: Controle de qualidade de sequências  |[SLIDES](CQ-sequencias.pdf)               |
 |Tarde  |Prática: Linha de comando                      |[EXERCÍCIO](pratica-linha-comando.md)     |
 
 ### Terça-feira 01.11
@@ -30,10 +31,11 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                             |                                                                  |
 |-------|------------------------------------------------------|------------------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior             |                                                                  |
-|Manhã  |Palestra: Controle de qualidade de sequências         |[SLIDES](CQ-sequencias.pdf)                                       |
 |Manhã  |Conexão ao supercomputador Puhti                      |                                                                  |
 |Manhã  |Prática: Relatórios de qualidade das sequências brutas|[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md) + Discussão|
-|Tarde  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-sequencias.md)                                |
+|Manhã  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-sequencias.md)                                |
+|Manhã  |Palestra: Montagem de metagenomas                     |[SLIDES](montagem-metagenomas.pdf)                                |
+|Tarde  |Prática: Montagem de metagenomas                      |[EXERCÍCIO](montagem-metagenomas.md)                              |
 
 ### Quinta-feira 03.11
 
@@ -46,8 +48,6 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                            |                                             |
 |-------|-----------------------------------------------------|---------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior            |                                             |
-|Manhã  |Palestra: Montagem de metagenomas                    |[SLIDES](montagem-metagenomas.pdf)           |
-|Manhã  |Prática: Montagem de metagenomas                     |[EXERCÍCIO](montagem-metagenomas.md)         |
 |Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais|[SLIDES](perfis-taxonomicos-funcionais.pdf)  |
 |Tarde  |Prática: Análise das montagens                       |[EXERCÍCIO](analise-montagens.md)            |
 |Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais |[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|

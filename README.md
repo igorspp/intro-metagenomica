@@ -27,14 +27,15 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Quarta-feira 02.11
 
-|Período|Atividade                                             |                                                                  |
-|-------|------------------------------------------------------|------------------------------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior             |                                                                  |
-|Manhã  |Palestra: Controle de qualidade de sequências         |[SLIDES](CQ-sequencias.pdf)                                       |
-|Manhã  |Conexão ao supercomputador Puhti                      |                                                                  |
-|Manhã  |Prática: Relatórios de qualidade das sequências brutas|[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md) + Discussão|
-|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais |[SLIDES](perfis-taxonomicos-funcionais.pdf)                       |
-|Tarde  |Prática: Limpeza de sequências                        |[EXERCÍCIO](limpeza-sequencias.md)                                |
+|Período|Atividade                                               |                                                      |
+|-------|--------------------------------------------------------|------------------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior               |                                                      |
+|Manhã  |Palestra: Controle de qualidade de sequências           |[SLIDES](CQ-sequencias.pdf)                           |
+|Manhã  |Conexão ao supercomputador Puhti                        |                                                      |
+|Manhã  |Prática: Relatórios de qualidade das sequências brutas  |[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md)|
+|Manhã  |Discussão: Relatórios de qualidade das sequências brutas|                                                      |
+|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais   |[SLIDES](perfis-taxonomicos-funcionais.pdf)           |
+|Tarde  |Prática: Limpeza de sequências                          |[EXERCÍCIO](limpeza-sequencias.md)                    |
 
 ### Quinta-feira 03.11
 

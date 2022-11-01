@@ -7,7 +7,9 @@ As instruções de como se conectar ao Puhti usando o VS Code estão descritas n
 
 > **Lembrete:**  
 > 
-> Sempre que se conectar ao servidor, tenha certeza que está dentro da pasta certa usando o comando `pwd`. Se você não estiver no lugar certo, use o comando `cd` para ir para a sua pasta de trabalho (`/scratch/project_2006567/student3xx`). Se quiser, você pode usar a varíavel `$USER` ao invés de digitar o seu nome de usuário (por exemplo, `cd /scratch/project_2006567/$USER`).  
+> Sempre que se conectar ao servidor, tenha certeza que está dentro da pasta certa usando o comando `pwd`.  
+> Se você não estiver no lugar certo, use o comando `cd` para ir para a sua pasta de trabalho (`/scratch/project_2006567/student3xx`).  
+> Se quiser, você pode usar a varíavel `$USER` ao invés de digitar o seu nome de usuário (por exemplo, `cd /scratch/project_2006567/$USER`).  
 
 ## Localização das sequências brutas
 
@@ -18,7 +20,18 @@ As instruções de como se conectar ao Puhti usando o VS Code estão descritas n
 > \- 2 amostras de solo de tundra: ERR4998600 e ERR4998601  
 > 
 > Você pode ler mais sobre as amostras [aqui](https://www.nature.com/articles/s41467-019-08853-3) e [aqui](https://environmentalmicrobiome.biomedcentral.com/articles/10.1186/s40793-022-00424-2).  
-> As sequências são públicas e foram baixadas do repositório [*Sequence Read Archive* (SRA)](https://www.ncbi.nlm.nih.gov/sra) do NCBI usando o programa [fasterq-dump](https://github.com/ncbi/sra-tools).  
+> As sequências são públicas e foram baixadas do repositório [*Sequence Read Archive* (SRA)](https://www.ncbi.nlm.nih.gov/sra) do NCBI usando o programa [fasterq-dump](https://github.com/ncbi/sra-tools):  
+> 
+> ```bash
+> ######################### NÃO RODAR #########################
+> for sample in ERR4998600 ERR4998601 ERR1713356 ERR2683233; do
+>   fasterq-dump ${sample} \
+>                -O seq_brutas \
+>                -e 4 \
+>                -S
+> done
+> ######################### NÃO RODAR #########################
+> ```
 
 As sequências brutas das amostras que utilizaremos estão localizadas em `/scratch/project_2006567/seq_brutas`.  
 Vamos listar o conteúdo da pasta:  
@@ -182,11 +195,10 @@ No seu computador, vá para onde salvou a pasta e abra o arquivo `multiqc_report
 
 > **Pergunta #3**
 > 
-> \- Que tipos de problemas as sequências brutas apresentam? Quais as causas?
+> \- Que tipos de problemas as sequências brutas apresentam? Quais as possíveis causas?
 
+Quando todos tiverem terminado as análises, vamos olhar novamente o relatório juntos e discutir se algo precisa ser feito para corrigir possíveis problemas com as sequências.  
 
 > **Dica:** 
 > 
 > Para cada painel (por exemplo, *Sequence Quality Histograms* ou *Per Sequence Quality Scores*) você pode clicar no botão `?Help` à direita do título para entender mais o que está sendo representado pelo gráfico.  
-
-Quando todos tiverem terminado as análises, vamos olhar novamente o relatório juntos e discutir se algo precisa ser feito para corrigir possíveis problemas com as sequências.  

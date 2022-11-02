@@ -27,6 +27,17 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Quarta-feira 02.11
 
+**Aula adiada devido ao feriado de Finados.**  
+**Data para recuperação a ser discutida.**  
+
+### Quinta-feira 03.11
+
+|Período|Atividade                                    |
+|-------|---------------------------------------------|
+|Manhã  |OPCIONAL: Atendimento individual para dúvidas|
+
+### Sexta-feira 04.11
+
 |Período|Atividade                                               |                                                      |
 |-------|--------------------------------------------------------|------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior               |                                                      |
@@ -37,13 +48,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais   |[SLIDES](perfis-taxonomicos-funcionais.pdf)           |
 |Tarde  |Prática: Limpeza de sequências                          |[EXERCÍCIO](limpeza-sequencias.md)                    |
 
-### Quinta-feira 03.11
-
-|Período|Atividade                                    |
-|-------|---------------------------------------------|
-|Manhã  |OPCIONAL: Atendimento individual para dúvidas|
-
-### Sexta-feira 04.11
+### Segunda-feira 07.11
 
 |Período|Atividade                                                |                                             |
 |-------|---------------------------------------------------------|---------------------------------------------|
@@ -54,7 +59,9 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Tarde  |Prática: Análise das montagens                           |[EXERCÍCIO](analise-montagens.md)            |
 |Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais     |[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|
 
-### Segunda-feira 07.11
+### Terça-feira 08.11
+
+**AGENDA PROVISÓRIA:**  
 
 |Período|Atividade                                   |                                                           |
 |-------|--------------------------------------------|-----------------------------------------------------------|
@@ -62,12 +69,6 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Manhã  |Palestra: Obtenção de MAGs                  |[SLIDES](obtencao-MAGs.pdf)                                |
 |Manhã  |Demonstração: Obtenção de MAGs usando anvi'o|                                                           |
 |Tarde  |Prática: Obtenção de MAGs usando anvi'o     |[EXERCÍCIO](obtencao-MAGs-anvio.md)                        |
-
-### Terça-feira 08.11
-
-|Período|Atividade                                    |
-|-------|---------------------------------------------|
-|Manhã  |OPCIONAL: Atendimento individual para dúvidas|
 
 ### Quarta-feira 09.11
 

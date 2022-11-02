@@ -12,10 +12,12 @@ Para isso, utilizaremos o programa [Cutadapt](https://cutadapt.readthedocs.io/en
 > Em um exemplo simplificado:  
 > 
 > ```bash
+> ################## NÃO RODAR ##################
 > cutadapt ERR1713356_1.fastq ERR1713356_2.fastq
 > cutadapt ERR2683233_1.fastq ERR2683233_2.fastq
 > cutadapt ERR4998600_1.fastq ERR4998600_2.fastq
 > cutadapt ERR4998601_1.fastq ERR4998601_2.fastq
+> ################## NÃO RODAR ##################
 > ```  
 > 
 > Isto até que não seria um problema para as nossas 4 amostras, mas análises de metagenômica geralmente involvem dezenas/centenas/milhares de amostras.  
@@ -25,9 +27,11 @@ Para isso, utilizaremos o programa [Cutadapt](https://cutadapt.readthedocs.io/en
 > Em um exemplo simplificado:
 > 
 > ```bash
+> ######################### NÃO RODAR #########################
 > for sample in ERR1713356 ERR2683233 ERR4998600 ERR4998601; do
 >   cutadapt ${sample}_1.fastq ${sample}_2.fastq
 > done
+> ######################### NÃO RODAR #########################
 > ```
 > 
 > **Quebrando em pedaços:**  
@@ -66,9 +70,9 @@ cutadapt ../seq_brutas/${sample}_1.fastq \
 ################## NÃO RODAR ###################
 ```
 
-> **Perguntas:**  
+> **Pergunta #4:**  
 > 
-> Olhando o manual do `Cutadapt` [online](https://cutadapt.readthedocs.io/en/stable/index.html) ou rodando `cutadapt --help`, tente responder:  
+> Olhando o manual do `Cutadapt` [online](https://cutadapt.readthedocs.io/en/stable/index.html) ou rodando `cutadapt --help`, responda:  
 > \- O que significam as bandeiras `-o`, `-p`, `-a`, `-A`, `-q`, `-m` e `-j`?  
 > \- Por que os argumentos para `-o` e `-p` terminam em `.fastq.gz`?  
 > \- Qual o propósito do redirecionamento (`> seq_limpas/${sample}.log.txt`)?  
@@ -115,7 +119,7 @@ done
 Note que as únicas coisas que diferem entre os dois loops são os argumentos passados para `-a` e `-A`.  
 Por que?
 
-> **EXERCÍCIO OPCIONAL:**  
+> **Pergunta #5 (OPCIONAL):**  
 > 
 > Você conseguiria desenvolver um jeito de rodar `Cutadapt` para as 4 amostras utilizando um só `for loop`?  
 > Ou seja, um `for loop` onde os argumentos passados para `-a` e `-A` dependem de qual é a amostra que está sendo analisada em cada iteração?  
@@ -123,9 +127,9 @@ Por que?
 
 Quando `Cutadapt` terminar de rodar, vamos dar uma olhada nos arquivos `.log.txt` que foram criados.  
 
-> **Perguntas:**  
+> **Pergunta #6:**  
 > 
-> Para cada uma das amostras, tente responder:  
+> Para cada uma das amostras, responda:  
 > \- Quantos pares de sequências brutas tínhamos originalmente?  
 > \- Quantas sequências continham adaptadores?  
 > \- Quantos pares de sequências foram removidas porque eram muito curtas?  
@@ -148,7 +152,7 @@ Quando tudo tiver terminado, lembre-se de desconectar do nó de computação com
 
 Agora baixe a pasta `multiqc_limpas` para o seu computador como feito anteriormente, abra o arquivo `multiqc_report.html` no seu navegador favorito, e compare com o relatório obtido anteriormente para as sequências brutas.  
 
-> **Perguntas:** 
+> **Pergunta #7:** 
 >
 > \- Quais problemas foram resolvidos?  
 > \- E quais não foram?  

@@ -52,16 +52,14 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                                |                                             |
 |-------|---------------------------------------------------------|---------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior                |                                             |
-|Tarde  |Prática: Montagem de metagenomas                         |[EXERCÍCIO](montagem-metagenomas.md)         |
 |Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais    |[SLIDES](perfis-taxonomicos-funcionais.pdf)  |
+|Manhã  |Demonstração: Obtenção de perfis taxonômicos e funcionais|                                             |
 |Manhã  |Palestra: Montagem de metagenomas                        |[SLIDES](montagem-metagenomas.pdf)           |
-|Manhã  |Demonstração: Obtenção de perfis taxonômicos e funcionais|
+|Tarde  |Prática: Montagem de metagenomas                         |[EXERCÍCIO](montagem-metagenomas.md)         |
 |Tarde  |Prática: Análise das montagens                           |[EXERCÍCIO](analise-montagens.md)            |
 |Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais     |[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|
 
-### Terça-feira 08.11
-
-**AGENDA PROVISÓRIA:**  
+### Quarta-feira 09.11
 
 |Período|Atividade                                   |                                                           |
 |-------|--------------------------------------------|-----------------------------------------------------------|
@@ -69,13 +67,6 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Manhã  |Palestra: Obtenção de MAGs                  |[SLIDES](obtencao-MAGs.pdf)                                |
 |Manhã  |Demonstração: Obtenção de MAGs usando anvi'o|                                                           |
 |Tarde  |Prática: Obtenção de MAGs usando anvi'o     |[EXERCÍCIO](obtencao-MAGs-anvio.md)                        |
-
-### Quarta-feira 09.11
-
-|Período|Atividade                                |                                                           |
-|-------|-----------------------------------------|-----------------------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
-|Manhã  |Prática: Análise de MAGs                 |                                                           |
 
 ### Quinta-feira 10.11
 
@@ -88,3 +79,4 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                |                                                           |
 |-------|-----------------------------------------|-----------------------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
+|Manhã  |Prática: Análise de MAGs                 |                                                           |

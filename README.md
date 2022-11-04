@@ -45,7 +45,6 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Manhã  |Conexão ao supercomputador Puhti                        |                                                      |
 |Manhã  |Prática: Relatórios de qualidade das sequências brutas  |[EXERCÍCIO](relatorios-qualidade-sequencias-brutas.md)|
 |Manhã  |Discussão: Relatórios de qualidade das sequências brutas|                                                      |
-|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais   |[SLIDES](perfis-taxonomicos-funcionais.pdf)           |
 |Tarde  |Prática: Limpeza de sequências                          |[EXERCÍCIO](limpeza-sequencias.md)                    |
 
 ### Segunda-feira 07.11
@@ -54,6 +53,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |-------|---------------------------------------------------------|---------------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior                |                                             |
 |Tarde  |Prática: Montagem de metagenomas                         |[EXERCÍCIO](montagem-metagenomas.md)         |
+|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais    |[SLIDES](perfis-taxonomicos-funcionais.pdf)  |
 |Manhã  |Palestra: Montagem de metagenomas                        |[SLIDES](montagem-metagenomas.pdf)           |
 |Manhã  |Demonstração: Obtenção de perfis taxonômicos e funcionais|
 |Tarde  |Prática: Análise das montagens                           |[EXERCÍCIO](analise-montagens.md)            |

@@ -49,15 +49,20 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Segunda-feira 07.11
 
-|Período|Atividade                                                |                                             |
-|-------|---------------------------------------------------------|---------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior                |                                             |
-|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais    |[SLIDES](perfis-taxonomicos-funcionais.pdf)  |
-|Manhã  |Demonstração: Obtenção de perfis taxonômicos e funcionais|                                             |
-|Manhã  |Palestra: Montagem de metagenomas                        |[SLIDES](montagem-metagenomas.pdf)           |
-|Tarde  |Prática: Montagem de metagenomas                         |[EXERCÍCIO](montagem-metagenomas.md)         |
-|Tarde  |Prática: Análise das montagens                           |[EXERCÍCIO](analise-montagens.md)            |
-|Tarde  |Prática: Obtenção de perfis taxonômicos e funcionais     |[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|
+|Período|Atividade                                                |                                           |
+|-------|---------------------------------------------------------|-------------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior                |                                           |
+|Manhã  |Palestra: Montagem de metagenomas                        |[SLIDES](montagem-metagenomas.pdf)         |
+|Manhã  |Palestra: Obtenção de perfis taxonômicos e funcionais    |[SLIDES](perfis-taxonomicos-funcionais.pdf)|
+|Manhã  |Demonstração: Obtenção de perfis taxonômicos e funcionais|                                           |
+|Tarde  |Prática: Montagem de metagenomas                         |[EXERCÍCIO](montagem-metagenomas.md)       |
+|Tarde  |Prática: Análise das montagens                           |[EXERCÍCIO](analise-montagens.md)          |
+
+### Terça-feria 08.11
+
+|Período    |Atividade                                           |                                             |
+|-----------|----------------------------------------------------|---------------------------------------------|
+|Manhã/Tarde|Prática: Obtenção de perfis taxonômicos e funcionais|[EXERCÍCIO](perfis-taxonomicos-funcionais.md)|
 
 ### Quarta-feira 09.11
 

@@ -22,12 +22,12 @@ metaquast.py montagens/*/final.contigs.fa \
              --max-ref-number 0
 ```
 
-O `MetaQUAST` deve demorar alguns poucos minutos para terminar.  
+O comando deve demorar alguns poucos minutos para completar.  
 
 Para responder a quarta pergunta acima, podemos usar a seguinte abordagem:  
-\- Para cada amostra, pegamos as sequências originais (limpas) e as mapeamos à montagem.  
-\- A proporção das sequências originais que puderam ser efetivamente mapeadas à montagem é conhecida como taxa de mapeamento (*mapping rate*).  
-\- A taxa de mapeamento é então utilizada como um indicativo da proporção das comunidade original que está de fato representada na montagem.
+* Para cada amostra, pegamos as sequências originais (limpas) e as mapeamos à montagem.  
+* A proporção das sequências originais que puderam ser efetivamente mapeadas à montagem é conhecida como taxa de mapeamento (*mapping rate*).  
+* A taxa de mapeamento é então utilizada como um indicativo da proporção das comunidade original que está de fato representada na montagem.
 
 Como quase tudo em bioinformática, existem diversos programas desenvolvidos para o mapeamento de sequências.   
 Aqui utilizaremos um programa chamado [bowtie2](https://github.com/BenLangmead/bowtie2), novamente utilizando um `for loop`:  
@@ -51,13 +51,12 @@ rm montagens_CQ/*.sam montagens_CQ/*.bt2
 
 A etapa acima deve demorar cerca de meia hora para terminar.  
 Desconecte do nó de computação com o comando `exit` e copie a pasta `montagens_CQ` para o seu computador e abra o arquivo `report.html` no seu navegador favorito.  
-Vamos tentar responder as 3 primeira perguntas feitas lá no começo, e adiciono mais uma:
+Use esse relatório para responder às 3 primeira perguntas abaixo.  
+Para responder à quarta pergunta, olhe os arquivos `.bowtie.log.txt` dentro da pasta `montagens_CQ`.  
 
+> **Pergunta #9:**  
 > \- Quantos contigs foram produzidos em cada montagem?  
 > \- Temos bastante contigs longos, ou maioritariamente contigs curtos?  
 > \- Qual o tamanho total das montagens?   
-> \- Qual a melhor montagem? Na verdade, faz algum sentido uma comparação assim?
-
-Finalmente, olhando os arquivos `.bowtie.log.txt`, podemos responder a última pergunta:
-
-> \- Quão representativo do todo são as montagens; em outras palavras, qual a porcentagem das nossas comunidades que foram efetivamente montadas?  
+> \- Quão representativo do todo são as montagens; em outras palavras, qual a porcentagem das nossas comunidades que foram efetivamente montadas? Os valores que obtivemos são "bons" ou "ruins"? Se você sequenciar **o mesmo número de sequências** de uma amostra da microbiota intestinal humana e uma amostra de solo da Amazônia, em qual você espera uma maior taxa de mapeamento?  
+> \- **Bônus:** Qual a melhor montagem dentre as quatro que fizemos e por que? Na verdade, será que faz algum sentido essa comparação?

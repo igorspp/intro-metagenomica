@@ -56,7 +56,7 @@ done
 > 
 > \- Qual a função do programa `daa-meganizer`?
 
-Agora baixe os arquivos `.daa` para o seu computador.  
+Agora saia do nó de computação com o comando `exit`, e então baixe os arquivos `.daa` para o seu computador.  
 Talvez demore um tempo para baixá-los pois os arquivos são relativamente grandes:  
 
 ```bash

@@ -8,7 +8,7 @@ Primeiro, devemos nos conectamos a um nó de computação.
 Note que agora solicitaremos consideravelmente mais recursos que nos passos anteriores:  
 
 ```bash
-srun --pty --account=project_2006567 --partition=serial --cpus-per-task=40 --mem=10000 --time=12:00:00 bash
+srun --pty --account=project_2006567 --partition=small --cpus-per-task=40 --mem=10000 --time=12:00:00 bash
 ```
 
 > **Dica #1:**  

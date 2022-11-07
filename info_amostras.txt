@@ -1,0 +1,5 @@
+#SampleID	Description
+ERR4998600	solo tundra 1
+ERR4998601	solo tundra 2
+ERR1713356	ETE inverno
+ERR2683233	ETE verao

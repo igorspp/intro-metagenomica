@@ -60,3 +60,4 @@ Para responder à quarta pergunta, olhe os arquivos `.bowtie.log.txt` dentro da 
 > \- Qual o tamanho total das montagens?   
 > \- Quão representativo do todo são as montagens; em outras palavras, qual a porcentagem das nossas comunidades que foram efetivamente montadas? Os valores que obtivemos são "bons" ou "ruins"? Se você sequenciar **o mesmo número de sequências** de uma amostra da microbiota intestinal humana e uma amostra de solo da Amazônia, em qual você espera uma maior taxa de mapeamento?  
 > \- **Bônus:** Qual a melhor montagem dentre as quatro que fizemos e por que? Na verdade, será que faz algum sentido essa comparação?
+

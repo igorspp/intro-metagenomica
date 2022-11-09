@@ -66,12 +66,12 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Quarta-feira 09.11
 
-|Período|Atividade                                            |                                        |
-|-------|-----------------------------------------------------|----------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior            |                                        |
-|Manhã  |Palestra: Metagenômica em nivel de genomas           |[SLIDES](metagenomica-nivel-genomas.pdf)|
-|Manhã  |Demonstração: Obtenção de MAGs usando anvi'o         |                                        |
-|Tarde  |Prática: Obtenção de MAGs usando anvi'o              |[EXERCÍCIO](obtencao-MAGs-anvio.md)     |
+|Período|Atividade                                   |                                        |
+|-------|--------------------------------------------|----------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior   |                                        |
+|Manhã  |Palestra: Metagenômica a nivel de genomas   |[SLIDES](metagenomica-nivel-genomas.pdf)|
+|Manhã  |Demonstração: Obtenção de MAGs usando anvi'o|                                        |
+|Tarde  |Prática: Obtenção de MAGs usando anvi'o     |[EXERCÍCIO](obtencao-MAGs-anvio.md)     |
 
 ### Quinta-feira 10.11
 

@@ -1,0 +1,57 @@
+bins	total_length	num_contigs	N50	GC_content	percent_completion	percent_redundancy	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+student389_ERR1713356_Bin_00015	1192589	336	3572	53.09688340255531	46.478873239436616	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Hydromonas	Hydromonas sp003339525
+student389_ERR1713356_Bin_00016	1549775	307	5885	66.1836868167501	49.29577464788732	5.633802816901408	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ottowia	Ottowia oryzae
+student389_ERR1713356_Bin_00017	1869604	361	6355	65.29817682294757	45.070422535211264	2.816901408450704	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Acidovorax	
+student389_ERR1713356_Bin_00018	1590947	330	5422	57.13879722314681	47.88732394366197	5.633802816901408	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+student389_ERR1713356_Bin_00019	478959	146	3466	52.75773263412613	40.84507042253521	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+student389_ERR1713356_Bin_00020	1672880	399	4487	36.28586140631851	39.436619718309856	1.408450704225352	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	Cloacibacterium normanense
+student389_ERR1713356_Bin_00021	677673	48	41303	42.470641475328904	38.028169014084504	1.408450704225352	Bacteria	Firmicutes	Negativicutes	Veillonellales	Dialisteraceae	Dialister	
+student389_ERR1713356_Bin_00022	1271616	405	3061	43.43830904176078	46.478873239436616	15.492957746478874	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Vitreoscilla	Vitreoscilla massiliensis
+student389_ERR1713356_Bin_00023	305843	95	3223	56.88665017266785	32.394366197183096	1.408450704225352	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+student389_ERR1713356_Bin_00024	815444	217	4272	39.65778060930645	32.394366197183096	1.408450704225352	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	
+student389_ERR1713356_Bin_00025	1752421	431	4387	63.307745210017096	35.2112676056338	5.633802816901408	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Acidovorax	Acidovorax temperans
+student389_ERR1713356_Bin_00026	1560644	458	3354	33.19339587219336	36.61971830985915	7.042253521126761	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	Cloacibacterium normanense
+student389_ERR1713356_Bin_00027	1157819	158	11090	40.15002321087348	33.80281690140845	4.225352112676056	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+student389_ERR1713356_Bin_00028	140184	44	2935	39.131113172915015	29.577464788732396	2.816901408450704	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	
+student389_ERR1713356_Bin_00029	655646	182	3615	62.142337878128004	0.0	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ottowia	Ottowia oryzae
+student389_ERR1713356_Bin_00030	1480757	538	2590	59.08718309661243	36.61971830985915	9.859154929577464	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+student389_ERR1713356_Bin_00031	1369990	486	2746	63.87926598937197	28.169014084507044	4.225352112676056	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Variovorax	
+student389_ERR1713356_Bin_00032	1030383	318	3302	39.92950417651625	0.0	0.0	Bacteria						
+student389_ERR1713356_Bin_00033	1054725	360	2866	33.585840935863374	0.0	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales			
+student389_ERR1713356_Bin_00034	1278890	326	4052	62.31672938790722	25.35211267605634	2.816901408450704	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+student389_ERR1713356_Bin_00035	1391621	490	2747	35.04390808244522	0.0	0.0	Bacteria						
+student389_ERR1713356_Bin_00036	874875	300	2791	46.831034347085755	22.535211267605632	0.0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+student389_ERR1713356_Bin_00037	424256	111	3926	49.00183090148512	25.35211267605634	4.225352112676056	Bacteria	Firmicutes	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	
+student389_ERR1713356_Bin_00038	356226	64	8562	59.2663544321701	45.070422535211264	23.943661971830984	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Acidovorax	
+student389_ERR1713356_Bin_00039	710886	245	2868	34.38674939239315	0.0	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales			
+student389_ERR1713356_Bin_00040	583771	184	3041	53.45834066924235	0.0	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales			
+student389_ERR1713356_Bin_00041	76597	25	3043	51.06273483391798	21.12676056338028	1.408450704225352	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae		
+student389_ERR1713356_Bin_00042	578102	156	3986	62.665937820711314	0.0	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+student389_ERR1713356_Bin_00043	881048	166	6460	26.913608140242452	0.0	0.0	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	
+student389_ERR1713356_Bin_00044	245284	29	9468	43.187323321656315	0.0	0.0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	
+student389_ERR1713356_Bin_00045	732466	206	3584	35.12682244032633	40.84507042253521	29.577464788732396	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Vitreoscilla	Vitreoscilla massiliensis
+student389_ERR1713356_Bin_00046	74822	20	4241	33.199677154373	0.0	0.0	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	Cloacibacterium normanense
+student389_ERR1713356_Bin_00047	310287	105	2919	36.95538910958044	0.0	0.0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	
+student389_ERR1713356_Bin_00048	414793	67	7603	36.56814710148713	0.0	0.0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus raffinolactis
+student389_ERR1713356_Bin_00049	278672	98	2529	44.01465337260777	0.0	0.0	Bacteria	Firmicutes	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	
+student389_ERR1713356_Bin_00050	733391	243	2984	65.77325077630111	0.0	0.0							
+student389_ERR1713356_Bin_00051	538704	124	4763	29.80679551437549	0.0	0.0	Bacteria						
+student389_ERR1713356_Bin_00052	199769	55	3860	29.247778623841942	0.0	0.0							
+student389_ERR1713356_Bin_00053	195278	59	3176	61.9369263851481	0.0	0.0							
+student389_ERR1713356_Bin_00054	521455	188	2679	27.348215476988543	0.0	0.0							
+student389_ERR1713356_Bin_00055	420718	114	3841	37.17248151388854	0.0	0.0							
+student389_ERR1713356_Bin_00056	5527	1	5527	44.72589108015198	0.0	0.0							
+student389_ERR1713356_MAG_00001	2235511	293	10351	47.33804199963853	100.0	4.225352112676056	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Trichococcus	
+student389_ERR1713356_MAG_00002	1558787	158	15562	30.567518732516213	95.77464788732394	0.0	Bacteria	Fusobacteriota	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia	
+student389_ERR1713356_MAG_00003	1520694	278	6455	49.198244718632786	91.54929577464789	5.633802816901408	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Hydromonas	
+student389_ERR1713356_MAG_00004	1513125	436	3635	55.063725006316425	83.09859154929578	4.225352112676056	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	Neisseria suis
+student389_ERR1713356_MAG_00005	1409176	88	26166	40.6149873564497	83.09859154929578	5.633802816901408	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	
+student389_ERR1713356_MAG_00006	1508912	446	3446	43.77408747737584	76.05633802816901	4.225352112676056	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Neisseriaceae	Neisseria	
+student389_ERR1713356_MAG_00007	1041447	168	8718	39.422275074068274	64.78873239436619	2.816901408450704	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	
+student389_ERR1713356_MAG_00008	1213663	137	11673	27.92357387168667	64.78873239436619	2.816901408450704	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Arcobacteraceae	Aliarcobacter	
+student389_ERR1713356_MAG_00009	1151300	375	3016	41.7586839918661	64.78873239436619	4.225352112676056	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Psychrobacter	
+student389_ERR1713356_MAG_00010	806691	131	7066	48.714025298403755	57.74647887323944	0.0	Bacteria	Firmicutes	Negativicutes	Veillonellales	Dialisteraceae	Dialister	Dialister invisus
+student389_ERR1713356_MAG_00011	1103124	324	3460	38.1031813401027	59.15492957746479	5.633802816901408	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus aquimarinus
+student389_ERR1713356_MAG_00012	2266180	660	3458	68.27572690908474	53.521126760563384	2.816901408450704	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ottowia	Ottowia sp001897615
+student389_ERR1713356_MAG_00013	1883670	332	7029	32.55977189229068	50.70422535211268	2.816901408450704	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium	Cloacibacterium sp002337005
+student389_ERR1713356_MAG_00014	1711292	340	5696	67.65226904914435	50.70422535211268	7.042253521126761	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Ottowia	Ottowia sp001897615

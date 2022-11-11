@@ -81,7 +81,7 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 
 ### Sexta-feira 11.11
 
-|Período|Atividade                                |                                                           |
-|-------|-----------------------------------------|-----------------------------------------------------------|
-|Manhã  |Esclarecimento de dúvidas do dia anterior|                                                           |
-|Manhã  |Prática: Análise de MAGs                 |                                                           |
+|Período|Atividade                                |                                      |
+|-------|-----------------------------------------|--------------------------------------|
+|Manhã  |Esclarecimento de dúvidas do dia anterior|                                      |
+|Manhã  |Prática: Exemplos para análise de MAGs   |[EXERCÍCIO](exemplos-analises-MAGs.md)|

@@ -84,4 +84,5 @@ Curso oferecido pelo Programa de Pós-graduação em Biologia Celular e Molecula
 |Período|Atividade                                |                                      |
 |-------|-----------------------------------------|--------------------------------------|
 |Manhã  |Esclarecimento de dúvidas do dia anterior|                                      |
+|Manhã  |Prática: Análise de MAGs                 |[SLIDES](analises-MAGs.pdf)           |
 |Manhã  |Prática: Exemplos para análise de MAGs   |[EXERCÍCIO](exemplos-analises-MAGs.md)|
